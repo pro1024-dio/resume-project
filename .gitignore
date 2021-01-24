@@ -104,9 +104,10 @@ dist
 .tern-port
 
 # Fullstack Developer
-.vscode
+.vscode/
 .idea
 .DS_Store
 .env
 build/
 *.psd
+.gitignore
