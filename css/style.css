@@ -1,0 +1,42 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Montserrat', serif;
+  background-color: #f5f7fa;
+  padding-top: 20px;
+  padding-bottom: 40px;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.wrapper {
+  background-color: #ffffff;
+  display: flex;
+  box-shadow: 5px 10px 10px #e1e3e5;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.sidebar_container {
+  background-color: #1e2939;
+  width: 370px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.my_photo {
+  width: 374px;
+  margin-left: -2px;
+  box-shadow: 5px 10px 10px #0a1524;
+  margin-bottom: 5px;
+}
+
+.aboutme_container {
+  padding-top: 110px;
+  padding-right: 90px;
+  padding-left: 90px;
+  padding-bottom: 110px;
+}
