@@ -40,3 +40,155 @@ body {
   padding-left: 90px;
   padding-bottom: 110px;
 }
+.sidebar_contacts_containers {
+  padding-top: 13px;
+  padding-left: 2px;
+}
+
+.sidebar_contacts_type {
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  text-align: left;
+  margin-right: 10px;
+}
+
+.sidebar_contacts_linktell {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  text-decoration: none;
+  color: #7e848d;
+}
+
+.sidebar_contacts_linkmail {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  color: #7e848d;
+}
+
+.sidebar_second_level_container {
+  padding-top: 55px;
+  padding-left: 40px;
+}
+
+.sidebar_h3 {
+  padding-bottom: 7px;
+  color: #ffffff;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+}
+.sidebar_lists {
+  padding-left: 20px;
+}
+
+.sidebar_lists_items {
+  color: #ff6b08;
+  padding-top: 13px;
+}
+
+.sidebar_lists_items_text {
+  color: #ffffff;
+}
+h1 {
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 89px;
+  text-align: left;
+}
+
+h2 {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+}
+
+.aboutme_text {
+  /*padding-bottom: 7px;
+    width: 413px;
+    height: 115px;*/
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.aboutme_orderlists {
+  padding-left: 20px;
+  color: #000000;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  text-align: left;
+  letter-spacing: 0.42px;
+  text-decoration: none;
+}
+
+.aboutme_lists_items_link {
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  letter-spacing: 0.42px;
+  text-decoration: none;
+}
+
+.aboutme_lists_items_links_desc {
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.aboutme_h3 {
+  padding-bottom: 7px;
+  color: #000000;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  height: 21px;
+}
+h4 {
+  color: #000000;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  text-align: left;
+  letter-spacing: 0.48px;
+}
+.aboutme_text_company {
+  color: #ff6b08;
+  letter-spacing: 0.48px;
+}
+.aboutme_second_level_container {
+  padding-top: 55px;
+}
+.aboutme_third_level_container {
+  /*width: 537px;*/
+  padding-top: 20px;
+}
+.aboutme_lists {
+  padding-left: 20px;
+  color: #ff6b08;
+}
+.aboutme_lists_items {
+  padding-top: 10px;
+}
+.aboutme_lists_items_text {
+  color: #000000;
+}
+
+.aboutme_text_date_country {
+  height: 13px;
+  color: #a8a8a8;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+}
